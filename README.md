@@ -92,7 +92,3 @@ Boot time: 2025-03-03 10:45:32
 
 ## Contributing 🤝
 Feel free to fork this repo and submit a pull request.
----
-
-### Made by [cosmi](https://github.com/proprionic) 💪🚀
-
