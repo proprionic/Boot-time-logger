@@ -23,6 +23,7 @@ cd Boot-time-logger
 ### 2. Install Dependencies
 ```bash
 pip install -r openpyxl
+pip install twilio
 ```
 
 ### 3. Run the Script
